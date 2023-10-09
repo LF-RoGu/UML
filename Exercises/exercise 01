@@ -1,0 +1,104 @@
+KOA - Waterfall Model
+TASK 1
+Phases
+-Requirement Analysis
+Comunication with customer gadering all the information regarding the product as what it should contain and what is the expected result. Development of a document that specifies all the points to be covered in the project.
+-System Design
+Creating a system architechture, this depending on the gadered information from the requirements.
+Detailed information on how the product should operate.
+-Implementation
+Developing the product tool.
+-Testing / Verification
+Create different testing cases where this should cover all the points mentioned in the requirements.
+Validate that the final product is working and fullfilling all the customer requirements.
+-Deployment
+Delivering final product to customer and train the personal on how to use it.
+-Maintenace
+Improve the product from customer feedback and new requirements request.
+Update product depending on dependencies. (Ex: OS, new HW, etc)
+
+KOA - V-Model
+-Requirement Analysis
+Acceptence from customer regarding the obtained requirements.
+-System Design
+A System test where the product as a whole is validated and fullfills all the requirements
+-Acceptence test
+Verification from the client that the product is working correctly as they expected.
+
+Pros Waterfall-V Model
+Early detection of bugs.
+It could lead to a more documented final product.
+More precise testing for each layer of the product.
+It requires an acceptence at every test which could lead to a better final product.
+It leads with a direct comunication with the customer.
+It is easier to manage the team and project using this model.
+
+TASK 2
+
+-Dev product from ZERO
+
+Agile
+-PROS
+Better flow of work, as it is a new product, this can lead to many changes during the development
+Fast Paced
+Allows flexibility
+It can finish the product faster.
+More communication with the client
+
+-Contras
+Needs to have a strong req team.
+Not a lot of documentation.
+
+V-Model
+-PROS
+Strong documentation.
+Strong control flow.
+It can lead to a more robust final product.
+
+-Contras
+Slow paced.
+More expensive.
+Does not allow much flexibility.
+Less communication with the client.
+
+
+a) Size of the developer team
+b) Complexity of the project
+c) Known requirements
+d) Change of requirements
+e) Time‐To‐Market
+f) Knowledge of IT (customer)
+g) Average number of iteration
+
+
+V-Model []
+-The more the better
+-Complexity
+-Good for req
+-Bad for change req
+-Slow paced
+-
+-Small to none iteration
+Waterfall []
+-Small team
+-Bad Complexity
+-No changes on req
+-Bad for change req
+-
+-Small to none iteration
+Agile []
+-small/mid size the better
+-Complexity
+-With all req will only need to change on a sprint2sprint (small changes)
+-Good for change req
+-Fast paced
+-
+-A lot of iteration
+Plan-Driven []
+-mid/big size the better
+-bad Complexity
+-Good for req
+-Good for change req
+-Fast paced
+-
+-small to mid iteration
